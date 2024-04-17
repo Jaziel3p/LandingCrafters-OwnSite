@@ -1,0 +1,201 @@
+{
+  "Header": {
+    "title": "Seguridad y Servicios Alfonso XIII",
+    "paragraph": "Protegiendo tu mundo, vigilancia sin límites"
+  },
+  "About": {
+    "paragraph": "En 'Seguridad y Servicios Alfonso XIII', estamos comprometidos con la seguridad y protección de hogares y negocios en la Ciudad de México. Con una misión clara de proporcionar dispositivos de seguridad electrónica de vanguardia, nos esforzamos por ofrecer a nuestros clientes una mayor tranquilidad, protección y confort en sus entornos cotidianos.",
+    "Why": [
+      "Experiencia y conocimientos sólidos en el campo de la seguridad electrónica",
+      "Productos de alta calidad y tecnología avanzada para garantizar la fiabilidad y eficacia",
+      "Asesoramiento personalizado para ayudar a nuestros clientes a encontrar la solución de seguridad adecuada para sus necesidades específicas",
+      "Servicio al cliente excepcional, con atención rápida y profesional a todas las consultas y problemas"
+    ],
+    "Why2": [
+      "Flexibilidad en los servicios ofrecidos, adaptándonos a las necesidades cambiantes del mercado y de nuestros clientes",
+      "Precios competitivos para garantizar la accesibilidad de nuestros productos y servicios a una amplia gama de clientes",
+      "Compromiso con la innovación continua, manteniéndonos al tanto de las últimas tendencias y avances en seguridad electrónica",
+      "Garantía de satisfacción del cliente, respaldada por nuestro compromiso de resolver cualquier problema o inconveniente de manera rápida y eficiente"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Cercos Eléctricos",
+      "largeImage": "img/portfolio/foto1.jpeg",
+      "smallImage": "img/portfolio/foto1.jpeg"
+    },
+    {
+      "title": "Cercos Eléctricos",
+      "largeImage": "img/portfolio/foto2.jpeg",
+      "smallImage": "img/portfolio/foto2.jpeg"
+    },
+    {
+      "title": "Sistemas de videovigilancia",
+      "largeImage": "img/portfolio/foto3.jpeg",
+      "smallImage": "img/portfolio/foto3.jpeg"
+    },
+    {
+      "title": "Porteros y Videoporteros",
+      "largeImage": "img/portfolio/foto4.jpg",
+      "smallImage": "img/portfolio/foto4.jpg"
+    },
+    {
+      "title": "Sistemas de videovigilancia",
+      "largeImage": "img/portfolio/foto5.jpg",
+      "smallImage": "img/portfolio/foto5.jpg"
+    },
+    {
+      "title": "Porteros y Videoporteros",
+      "largeImage": "img/portfolio/foto6.jpg",
+      "smallImage": "img/portfolio/foto6.jpg"
+    },
+    {
+      "title": "Sistema de videovigilancia",
+      "largeImage": "img/portfolio/foto7.jpg",
+      "smallImage": "img/portfolio/foto7.jpg"
+    },
+    {
+      "title": "Sistema de videovigilancia",
+      "largeImage": "img/portfolio/foto8.jpg",
+      "smallImage": "img/portfolio/foto8.jpg"
+    },
+    {
+      "title": "Porteros y Videoporteros",
+      "largeImage": "img/portfolio/foto9.jpg",
+      "smallImage": "img/portfolio/foto9.jpg"
+    },
+    {
+      "title": "Porteros y Videoporteros",
+      "largeImage": "img/portfolio/foto10.jpg",
+      "smallImage": "img/portfolio/foto10.jpg"
+    },
+    {
+      "title": "Alarmas",
+      "largeImage": "img/portfolio/foto11.jpg",
+      "smallImage": "img/portfolio/foto11.jpg"
+    },
+    {
+      "title": "Alarmas",
+      "largeImage": "img/portfolio/foto12.jpg",
+      "smallImage": "img/portfolio/foto12.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-video-camera",
+      "name": "Sistema de videovigilancia",
+      "text": "Los sistemas de videovigilancia posibilitan reforzar la seguridad en un sinfín de espacios."
+    },
+    {
+      "icon": "fa fa-bell",
+      "name": "Alarmas",
+      "text": "Ofrecemos monitoreo en situaciones críticas, incluyendo detección de incendios y condiciones climáticas."
+    },
+    {
+      "icon": "fa fa-eye",
+      "name": "Porteros y Videoporteros",
+      "text": "Dispositivo que permite la comunicación bidireccional, como un portero electrónico."
+    },
+    {
+      "icon": "fa fa-bolt",
+      "name": "Cercos Eléctricos",
+      "text": "Sistema de seguridad perimetral que utiliza descargas eléctricas para disuadir a intrusos y proteger una propiedad."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Estoy muy satisfecho con el trabajo realizado por la empresa de construcción. Cumplieron con todas mis expectativas y el resultado final superó mis expectativas.\"",
+      "name": "Juan Pérez"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"El equipo de construcción demostró gran profesionalismo y dedicación en cada etapa del proyecto. ¡Altamente recomendado!\"",
+      "name": "María Gómez"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"La calidad de los materiales y la atención al detalle en cada acabado son evidencia del alto estándar de excelencia de esta empresa de construcción.\"",
+      "name": "Roberto López"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Desde el diseño inicial hasta la entrega final, el equipo de construcción demostró un compromiso excepcional con la calidad y la satisfacción del cliente.\"",
+      "name": "Ana Martínez"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"¡Increíble trabajo! Estoy impresionado por la eficiencia y la atención al detalle en cada aspecto de la construcción de mi casa.\"",
+      "name": "Carlos Rodríguez"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"La empresa de construcción demostró seriedad y profesionalismo en todo momento, cumpliendo con los plazos establecidos y superando nuestras expectativas.\"",
+      "name": "Laura Sánchez"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Juan Pérez",
+      "job": "Director de Proyectos"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "María Gómez",
+      "job": "Diseñadora Senior"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Roberto López",
+      "job": "Arquitecto Principal"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Ana Martínez",
+      "job": "Gerente de Construcción"
+    }
+  ],
+  "Contact": {
+    "address": "CDMX, 01470 Álvaro Obregón.",
+    "phone": "5593167507",
+    "phone2": "5621646732",
+    "email": "contacto@ciudadsegura.com",
+    "email2": "",
+    "facebook": "https://www.facebook.com/profile.php?id=100084244841093"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-map",
+      "title": "Experiencia en Turismo",
+      "text": "Con años de experiencia en el sector del turismo en la Selva Lacandona, hemos organizado numerosas expediciones exitosas, ganando la confianza de nuestros visitantes en cada aventura."
+    },
+    {
+      "icon": "fa fa-building-o",
+      "title": "Servicios de Calidad",
+      "text": "No solo te ofrecemos lo mejor en alojamiento y actividades, sino que también nos esforzamos por hacer que tu experiencia en la Selva Lacandona sea inolvidable y sin complicaciones."
+    },
+    {
+      "icon": "fa fa-check",
+      "title": "Compromiso con la Preservación",
+      "text": "Nos comprometemos a ofrecer servicios de alta calidad mientras protegemos y preservamos la belleza natural y la riqueza cultural de la Selva Lacandona en cada paso del camino."
+    },
+    {
+      "icon": "fa fa-thumbs-o-up",
+      "title": "Satisfacción del Visitante",
+      "text": "La satisfacción de nuestros visitantes es nuestra prioridad principal. Trabajamos arduamente para superar sus expectativas y garantizar experiencias gratificantes y enriquecedoras en la Selva Lacandona."
+    }
+  ],
+  "MisionVision": [
+    {
+      "icon": "fa fa-map",
+      "title": "Misión",
+      "text": "Dotar a los hogares y negocios de la CDMX de dispositivos de seguridad electrónica para creerles mayor seguridad, protección y confort."
+    },
+    {
+      "icon": "fa fa-paper-plane-o",
+      "title": "Visión",
+      "text": "Hacer de CDMX una ciudad que otorgue una verdadera protección y libertad a todos gracias a los Sistemas de Seguridad."
+    }
+  ]
+}
